@@ -1,6 +1,6 @@
 # A Simple React Quiz App
 
-This is a simple quiz app built with React and firebase.
+This is a simple quiz app built with React.
 
 See Live: https://taufikur-rahman.com/projects/quiz
 
